@@ -13,7 +13,7 @@ class Dog
   end
   
   def bark
-    @this_name
+    @this_bark
   end 
   
 end
