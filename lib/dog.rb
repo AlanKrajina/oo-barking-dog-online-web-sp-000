@@ -9,7 +9,7 @@ class Dog
   end
   
   def bark=(bark)
-    @this_bark=dog_name
+    @this_bark=dog_bark
   end
   
   def bark
